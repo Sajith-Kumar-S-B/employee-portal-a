@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin-User",
+      "email": "admin@demoapp.com",
+      "active": "1",
+      "password": "demoapp123"
+    },
+    {
+      "id": "4",
+      "name": "max miller",
+      "email": "max@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "2",
+      "name": "Robert",
+      "email": "robert@gmail.com",
+      "active": "1"
+    }
+  ]
+}
